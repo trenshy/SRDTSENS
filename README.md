@@ -1,9 +1,5 @@
 Um Port Scan de SSRF simples, escrito em python, para automatizar o processo de descoberta de portas em aplicações vulneráveis ​​a SSRF.
 
-![image](https://github.com/user-attachments/assets/b2bf1eb8-d842-4106-8929-ef510d1d85ed)
-
-
-
 Modo de Uso:
 
 
@@ -12,6 +8,13 @@ Modo de Uso:
 -w -> Wordlists que contém as portas para análise.
 
 -u -> Url para teste.
+
+
+
+
+![image](https://github.com/user-attachments/assets/b2bf1eb8-d842-4106-8929-ef510d1d85ed)
+
+
 
 
 
