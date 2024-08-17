@@ -1,4 +1,4 @@
-Um Port Scan de SSRF simples, escrito em python, para automatizar o processo de descoberta de portas em aplicações vulneráveis ​​a SSRF.
+Um Port Scan de SSRF, escrito em python, para automatizar o processo de descoberta de portas em aplicações vulneráveis ​​a SSRF.
 
 Modo de Uso:
 
